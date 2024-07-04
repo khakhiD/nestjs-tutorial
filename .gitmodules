@@ -1,0 +1,3 @@
+[submodule "hi-nest"]
+	path = hi-nest
+	url = https://github.com/khakhiD/hi-nest.git
